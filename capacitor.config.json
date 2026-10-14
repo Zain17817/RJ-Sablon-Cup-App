@@ -1,6 +1,5 @@
-
 {
-  "appId": "com.rjsabloncup.app",
-  "appName": "RJ Sablon Cup",
+  "appId": "id.skripsi.rjsablon",
+  "appName": "RJSablon",
   "webDir": "www"
 }
