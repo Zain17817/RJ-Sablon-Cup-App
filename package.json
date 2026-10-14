@@ -25,4 +25,8 @@
   "devDependencies": {
     "@capacitor/cli": "^8.5.3"
   }
+  "scripts": {
+  "build": "echo 'No build step, using www as-is'",
+  "test": "echo \"Error: no test specified\" && exit 1"
+}
 }
